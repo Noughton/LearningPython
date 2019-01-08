@@ -38,3 +38,7 @@ print(classRoom[1][0]) #类似二维数组
 bashRoom = [] #此处为一个空列表，长度为0
 print(bashRoom)
 print(len(bashRoom))
+
+nNum = [3,1,2]
+nNum.sort() #'sort'针对列表进行排序
+print(nNum)
