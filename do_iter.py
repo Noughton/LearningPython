@@ -29,3 +29,6 @@ iter_duo_list = [(1,0),(2,1)]
 
 for v1,v2 in iter_duo_list:
     print(v1,v2)
+
+for k,v in enumerate(iter_list): #迭代'list'中的'key'
+	print(k,v)
